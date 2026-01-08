@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "srNo": 1,
+    "name": "बडगुजर सुधाकर भिका",
+    "nameHindi": "बडगुजर सुधाकर भिका",
+    "nameMarathi": "बडगुजर सुधाकर भिका",
+    "nameEnglish": "Badgujar Sudhakar Bhika",
+    "party": "Independent",
+    "photo": "https://firebasestorage.googleapis.com/v0/b/voter-admin-panel.firebasestorage.app/o/design6%2F1767546777182_0_0_Screenshot%202026-01-04%20at%2010.35.55%E2%80%AFPM.png?alt=media&token=96708b9e-a97d-4b9f-af89-2c74f6321fc3",
+    "symbol": "https://firebasestorage.googleapis.com/v0/b/voter-admin-panel.firebasestorage.app/o/design6%2F1767546920808_0_0_BJP.jpg?alt=media&token=1102a1b2-b9c-47dc-b453-7fc556040081",
+    "symbolText": "BJP",
+    "code": "अ",
+    "bgColor": "#ffffff",
+    "route": "/p1"
+  },
+  {
+    "id": 2,
+    "srNo": 2,
+    "name": "मटाले साधना पवन",
+    "nameHindi": "मटाले साधना पवन",
+    "nameMarathi": "मटाले साधना पवन",
+    "nameEnglish": "Matale Sadhana Pawan",
+    "party": "Independent",
+    "photo": "https://via.placeholder.com/80x80/3B82F6/FFFFFF?text=SP",
+    "symbol": "https://via.placeholder.com/60x60/EF4444/FFFFFF?text=🌳",
+    "symbolText": "Tree",
+    "code": "ब",
+    "bgColor": "#c777b0",
+    "route": "/p2"
+  },
+  {
+    "id": 3,
+    "srNo": 3,
+    "name": "ढोमसे भाग्यश्री राकेश",
+    "nameHindi": "ढोमसे भाग्यश्री राकेश",
+    "nameMarathi": "ढोमसे भाग्यश्री राकेश",
+    "nameEnglish": "Dhomse Bhagyshree Rakesh",
+    "party": "भाजपा पुरस्कृत",
+    "photo": "https://via.placeholder.com/80x80/3B82F6/FFFFFF?text=DBR",
+    "symbol": "https://via.placeholder.com/60x60/8B5CF6/FFFFFF?text=🌸",
+    "symbolText": "Lotus",
+    "code": "क",
+    "bgColor": "#f0e47f",
+    "route": "/p3"
+  },
+  {
+    "id": 4,
+    "srNo": 4,
+    "name": "अमृतकर प्रकाश गिरीधर",
+    "nameHindi": "अमृतकर प्रकाश गिरीधर",
+    "nameMarathi": "अमृतकर प्रकाश गिरीधर",
+    "nameEnglish": "Amrutkar Prakash Giridhar",
+    "party": "भाजपा पुरस्कृत",
+    "photo": "https://via.placeholder.com/80x80/3B82F6/FFFFFF?text=APG",
+    "symbol": "https://via.placeholder.com/60x60/8B5CF6/FFFFFF?text=🚗",
+    "symbolText": "Car",
+    "code": "ड",
+    "bgColor": "#7384d1",
+    "route": "/p4"
+  }
+]
